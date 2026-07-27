@@ -1,17 +1,11 @@
-# ecolens_ai
+EcoLens AI is an end-to-end prototype developed for the CONVERGE hackathon (Round 2 Prototype Phase). It empowers students, faculty, and administration to seamlessly report, track, and resolve campus infrastructure and environmental issues—such as plastic waste, water leakage, broken street lights, and overflowing dustbins.
 
-A new Flutter project.
+Key Modules Implemented:
 
-## Getting Started
+Authentication: Role-based sign up and login for Students, Faculty, Maintenance Staff, and Administration.
 
-This project is a starting point for a Flutter application.
+Issue Reporting: Live photo capture/upload, category selection, description, and automated GPS location tagging.
 
-A few resources to get you started if this is your first Flutter project:
+Complaint Tracking: Real-time status tracking (Pending, In Progress, Resolved) with filter and search capabilities.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Campus Map & Dashboard: Visual overview of active issues and analytics for administrative monitoring.
